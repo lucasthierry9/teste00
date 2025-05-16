@@ -1,2 +1,2 @@
 import requests
-print("Vasco da Gama!")
+print("Vasco da Gama.")
